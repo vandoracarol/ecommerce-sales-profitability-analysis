@@ -51,20 +51,33 @@ The project includes five key analytical views:
 ### 6. Recommendations
 ![Recommendations](598b52cc-c95e-4494-8bcb-a6edb4836dd2.jpeg)
 
-### 1. Executive Dashboard
+## Dashboard Pages
+
+The project includes six key analytical views covering overall performance, sales, products, profitability, and actionable business insights.
+
+1. Executive Dashboard
+
 Provides a high-level overview of sales, orders, profit, profit margin, quantity sold, sales trends, regional performance, and category contribution.
 
-### 2. Sales Analysis
+2. Sales Analysis
+
 Examines sales performance and trends across products, categories, and regions.
 
-### 3. Product Analysis
+3. Product Analysis
+
 Identifies high-performing products, product demand, category performance, and product-level profitability.
 
-### 4. Profitability Analysis
+4. Profitability Analysis
+
 Evaluates profit performance, product margins, regional profitability, and the relationship between sales and profit.
 
-### 5. Business Insights & Recommendations
-Translates the analysis into actionable business insights and recommendations.
+5. Business Insights
+
+Highlights the key findings identified from the sales, product, and profitability analyses.
+
+6. Recommendations
+
+Provides actionable recommendations based on the analysis to support better business decision-making.
 
 ## Key Insights
 
