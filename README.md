@@ -37,7 +37,7 @@ The project includes five key analytical views:
 ![Executive Dashboard](e3752bb4-28f5-490f-89c3-9d17e00e3c5e.jpeg)
 
 ### 2. Sales Analysis
-![Sales Analysis](e134a10d-5317-4c54-b2b6-fcd82dbe941e.jpeg)
+![Sales Analysis](e134a10d-5317-4c54-b2b6-fcd82dbe941e.JPG)
 
 ### 3. Product Analysis
 ![Product Analysis](30bdc280-c57c-47a9-a0cd-dbb53f608691.jpeg)
