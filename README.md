@@ -31,6 +31,25 @@ The analysis focused on:
 ## Dashboard
 
 The project includes five key analytical views:
+## Dashboard Preview
+
+### 1. Executive Dashboard
+![Executive Dashboard](e3752bb4-28f5-490f-89c3-9d17e00e3c5e.jpeg)
+
+### 2. Sales Analysis
+![Sales Analysis](e134a10d-5317-4c54-b2b6-fcd82dbe941e.jpeg)
+
+### 3. Product Analysis
+![Product Analysis](30bdc280-c57c-47a9-a0cd-dbb53f608691.jpeg)
+
+### 4. Profitability Analysis
+![Profitability Analysis](4d73366a-6207-480d-a378-787597b3d839.jpeg)
+
+### 5. Business Insights
+![Business Insights](95dbba86-ff51-4f1a-b6f0-c1ef91506d7f.jpeg)
+
+### 6. Recommendations
+![Recommendations](598b52cc-c95e-4494-8bcb-a6edb4836dd2.jpeg)
 
 ### 1. Executive Dashboard
 Provides a high-level overview of sales, orders, profit, profit margin, quantity sold, sales trends, regional performance, and category contribution.
